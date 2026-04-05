@@ -1,2 +1,2 @@
-# goctor
+# GOCTOR
 GOCTOR : GOBOT DOCTOR &amp; PYCHOLOGIST
